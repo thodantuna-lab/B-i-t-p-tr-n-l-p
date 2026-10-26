@@ -6,7 +6,8 @@
 | logs | game.log|
 | docs| cap_nhat.txt|
 ```powershell
-Get-Content gamezone_website -Force
+Get-ChildItem gamezone_website -Force
+```
 - [x] Báo cáo doanh thu tháng này
 - [ ] Lên chiến lược marketing cho tháng sau
 > không up load file có đuôi .env
