@@ -2,8 +2,8 @@
 
 - **Họ tên: Trần Minh Quân** 
 - **Lớp:CNTT3** 
-- **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
+- **Link repository:https://github.com/thodantuna-lab/B-i-t-p-tr-n-l-p/tree/main/de-on-tap-game** 
+- **Hệ điều hành Windows:** 
 
 ## 4.2. Thao tác CLI
 
